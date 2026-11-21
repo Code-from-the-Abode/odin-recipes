@@ -13,3 +13,10 @@ original lesson material. I enjoyed learning about
 image attributes! I noticed, even for a split second,
 the difference between setting and not setting the
 height/width. This has been a great experience!
+
+11.21.2026
+I'd already submitted the project, but then I noticed an
+error on the turkey-breast.html page. Went back to deal
+with it and I couldn't stand the picture I was using, so I
+found a new one. Replacement looks much better and the alt
+text is accurate to the picture now.
